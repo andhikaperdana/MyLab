@@ -1,2 +1,2 @@
 # MyLab
-Repository untuk belajar programming
+Welcome to my channel
