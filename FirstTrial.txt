@@ -1,4 +1,3 @@
 Percobaan pembuatan file baru.
 
-Tes tambah data pertama
-Tes tambah data kedua
+Tes tambah data
